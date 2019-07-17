@@ -1,0 +1,1 @@
+orker: node bot.js
